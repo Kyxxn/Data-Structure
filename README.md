@@ -1,2 +1,5 @@
-# Data-Structure-in-Swift
-메이드 인 스위프트
+# 자료구조 구현해보기
+> made in Swift
+
+- 제네릭으로 구현하기
+- 함수형 프로그래밍 준수하며 구현하기
